@@ -1,0 +1,2 @@
+/home/vagrant/281projects/Jiaqi-Hengqing-Project/Server/build/CMakeFiles/server.dir
+/home/vagrant/281projects/Jiaqi-Hengqing-Project/Server/build/CMakeFiles/shell.dir

@@ -1,0 +1,7 @@
+All the input commands:  
+ls 
+ls -l 
+sleep 2 
+exit 
+The total number of commands launched:  
+4
